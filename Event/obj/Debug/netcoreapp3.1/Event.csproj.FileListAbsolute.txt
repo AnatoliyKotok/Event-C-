@@ -1,0 +1,11 @@
+C:\Users\Anatoliy\source\repos\Event\Event\obj\Debug\netcoreapp3.1\Event.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\Event\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+C:\Users\Anatoliy\source\repos\Event\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+C:\Users\Anatoliy\source\repos\Event\Event\bin\Debug\netcoreapp3.1\Event.exe
+C:\Users\Anatoliy\source\repos\Event\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+C:\Users\Anatoliy\source\repos\Event\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+C:\Users\Anatoliy\source\repos\Event\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+C:\Users\Anatoliy\source\repos\Event\Event\bin\Debug\netcoreapp3.1\Event.dll
+C:\Users\Anatoliy\source\repos\Event\Event\bin\Debug\netcoreapp3.1\Event.pdb
+C:\Users\Anatoliy\source\repos\Event\Event\obj\Debug\netcoreapp3.1\Event.dll
+C:\Users\Anatoliy\source\repos\Event\Event\obj\Debug\netcoreapp3.1\Event.pdb
